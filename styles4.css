@@ -1,0 +1,140 @@
+img {
+    height:100px;
+    width: 200px;
+    
+    
+}
+.subtext-container {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.header-container {
+    display:flex;
+    flex-direction: row;
+    justify-content:space-around;
+    
+}
+
+.links-container {
+    display:flex;
+    flex-direction: row;
+    gap:50px;
+}
+
+.title {
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.text {
+    display:flex;
+    justify-content: center;
+    flex-direction: row;    
+}
+
+.sign-up {
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
+    background-color: #1f2937;
+    
+    
+}
+
+
+button {
+    color:#3882F6;
+    
+
+}
+.info-header {
+    display:flex;
+    justify-content: center;
+    padding-top:50px;
+    margin-bottom: 25px;
+}
+
+.image-container {
+    display:flex;
+    justify-content: center;
+}
+
+.subtext-container {
+    display:flex;
+    justify-content: center;
+    padding-bottom:75px;
+}
+
+.quote {
+    font-size: 30px;
+    background-color: #E5E7EB;
+    padding:100px;
+
+}
+
+strong {
+    font-size: 20px;
+    display:flex;
+    justify-content: flex-end;
+}
+
+.call-to-action-container {
+
+    background-color:#3882F6;
+    width:500px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin:auto;
+    border-radius:15px;
+    color: aliceblue;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top:50px;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+
+
+
+.action-button {
+
+
+
+}
+
+.action-subtext {
+    
+
+    
+
+}
+
+body {
+    display:flex;
+    flex-direction:column;
+    min-height:100vh;
+    margin:0;
+
+}
+
+.footer {
+padding: 30px;
+display:flex;
+justify-content: center;
+background-color:#1f2937;
+color:aliceblue;
+margin-top: 75px;
+}
+
+.header-and-title-container {
+    background-color: #1f2937;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    -webkit-text-fill-color: aliceblue;
+    padding-bottom: 75px;
+}
